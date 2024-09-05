@@ -21,4 +21,4 @@ This project is a static clone of the Zomato webpage, created using HTML and CSS
 - This project was created as a learning exercise to enhance my HTML and CSS skills.
 
 # Contact
-For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](dineshmahendran2001@gmail.com).
+For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](mailto:dineshmahendran2001@gmail.com).
