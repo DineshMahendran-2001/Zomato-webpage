@@ -1,4 +1,4 @@
-# Zomato Webpage Clone
+# Zomato Webpage
 
 # Project Description
 This project is a static clone of the Zomato webpage, created using HTML and CSS. The aim of this project is to replicate the design and layout of the official Zomato webpage, showcasing my front-end development skills and understanding of responsive design.
