@@ -1,7 +1,7 @@
 # Zomato Webpage
 
 # Project Description
-This project is a static clone of the Zomato webpage, created using HTML and CSS. The aim of this project is to replicate the design and layout of the official Zomato webpage, showcasing my front-end development skills and understanding of responsive design.
+This project is a static copy of the Zomato webpage, created using HTML and CSS. The aim of this project is to replicate the design and layout of the official Zomato webpage, showcasing my front-end development skills and understanding of responsive design.
 
 # Features
 - Static Design: The project mimics the appearance of the Zomato webpage, including its layout, colors, and fonts.
@@ -12,7 +12,7 @@ This project is a static clone of the Zomato webpage, created using HTML and CSS
 - CSS
 
 # Note
-- This project is a static clone and does not include any backend functionality. Users cannot interact with the page beyond its visual representation.
+- This project is a static copy and does not include any backend functionality. Users cannot interact with the page beyond its visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
 [https://github.com/DineshMahendran-2001/Zomato-webpage.git](https://github.com/DineshMahendran-2001/Zomato-webpage.git)
 
